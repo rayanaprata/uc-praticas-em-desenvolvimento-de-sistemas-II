@@ -1,4 +1,4 @@
-## Práticas em Desenvolvimento de Sistemas II
+# Práticas em Desenvolvimento de Sistemas II
 
 Repositório para armazenar as atividades da disciplina de Práticas em Desenvolvimento de Sistemas II.
 

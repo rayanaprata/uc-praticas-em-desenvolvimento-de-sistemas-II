@@ -4,7 +4,7 @@ Repositório para armazenar as atividades da disciplina de Práticas em Desenvol
 
 ### Assuntos estudados durante o  semestre:
 
-- [ ] Tipos de dados, operadores, entrada/saída e casting.
+- [x] Tipos de dados, operadores, entrada/saída e casting.
 - [ ] Laços de repetição e de condição.
 - [ ] Manipulando strings.
 - [ ] Listas, dicionário e Arquivos.

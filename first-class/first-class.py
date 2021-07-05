@@ -11,5 +11,5 @@ imc = weight / (height*2)
 
 print(name, "have", age, "years old and,", weight, "kilos and measures", height, "meters. Your IMC is", imc)
 
-# print(f '{name} have {age} years old and {weight} kilos and measures {height} meters. Your IMC is {imc}.')
+# print(f'{name} have {age} years old and {weight} kilos and measures {height} meters. Your IMC is {imc}.')
 

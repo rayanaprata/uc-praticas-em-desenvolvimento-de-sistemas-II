@@ -6,8 +6,8 @@ Repositório para armazenar as atividades da disciplina de Práticas em Desenvol
 
 - [x] Tipos de dados, operadores, entrada/saída e casting.
 - [x] Laços de repetição e de condição.
-- [ ] Manipulando strings.
-- [ ] Listas, dicionário e Arquivos.
+- [x] Manipulando strings.
+- [x] Listas, dicionário e Arquivos.
 - [ ] Funções do Python.
 - [ ] Introdução a Python orientado a objetos: classes, métodos e atributos.
 - [ ] Herança com Python.

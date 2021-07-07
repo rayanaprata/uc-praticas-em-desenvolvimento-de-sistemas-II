@@ -1,8 +1,8 @@
-# Práticas em Desenvolvimento de Sistemas II
+# Práticas em Desenvolvimento de Sistemas II 👩🏻‍💻
 
 Repositório para armazenar as atividades da disciplina de Práticas em Desenvolvimento de Sistemas II.
 
-### Assuntos estudados durante o  semestre:
+### 📚 Assuntos estudados durante o  semestre:
 
 - [x] Tipos de dados, operadores, entrada/saída e casting.
 - [x] Laços de repetição e de condição.

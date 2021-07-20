@@ -8,7 +8,7 @@ Repositório para armazenar as atividades da disciplina de Práticas em Desenvol
 - [x] Laços de repetição e de condição.
 - [x] Manipulando strings.
 - [x] Listas, dicionário e Arquivos.
-- [ ] Funções do Python.
+- [x] Funções do Python.
 - [ ] Introdução a Python orientado a objetos: classes, métodos e atributos.
 - [ ] Herança com Python.
 - [ ] Associações com Python.

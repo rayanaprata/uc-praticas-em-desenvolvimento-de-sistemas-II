@@ -1,0 +1,1 @@
+# 3) Utilizando dicionário do Python, implementar um programa para controlar uma lista de contatos de telefone: A cada nome da agenda deverá armazenar: Nome, Sobrenome, Telefone celular, Telefone comercial, E-mail. Deverá conter as funções de cadastro, busca por nome e relatório na tela.

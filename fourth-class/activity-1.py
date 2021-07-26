@@ -13,7 +13,6 @@ contatos = {
     "nome": "Sara",
     "telefone": 2683735356,
   },
-
   "Jose": {
     "nome": "Jose",
     "telefone": 894578452,
@@ -62,7 +61,6 @@ while comando != "sair":
       contato = contatos[nome]
       print(f'O contato de {nome} foi removido.')
       del contatos[nome]
-      # incluir aqui o a função de remover do dicionario
     else:
       print("Contato não encontrado")  
 

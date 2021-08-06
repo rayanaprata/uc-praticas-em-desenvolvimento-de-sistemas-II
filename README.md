@@ -9,9 +9,9 @@ Repositório para armazenar as atividades da disciplina de Práticas em Desenvol
 - [x] Manipulando strings.
 - [x] Listas, dicionário e Arquivos.
 - [x] Funções do Python.
-- [ ] Introdução a Python orientado a objetos: classes, métodos e atributos.
-- [ ] Herança com Python.
-- [ ] Associações com Python.
+- [x] Introdução a Python orientado a objetos: classes, métodos e atributos.
+- [x] Herança com Python.
+- [x] Associações com Python.
 - [ ] Classe estática, abstrata e polimorfismo em Python.
 - [ ] Classe estática, abstrata e polimorfismo em Python.
 - [ ] Interfaces gráficas com Tkinter Python.

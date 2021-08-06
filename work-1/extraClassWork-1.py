@@ -8,7 +8,7 @@ with open("respostas.txt") as f:
     nomeAluno = next(f).rstrip() #rstrip() serve para remover o caracter de nova linha no final da linha pq o readline() retorna a linha com uma nova linha à direita.
 
 prova.close()
-
+gabarito.close()
 
 def correcao(listaResposta, listaGabarito):
   qtdResCertas = 0
@@ -35,6 +35,4 @@ def correcao(listaResposta, listaGabarito):
   rel.write(f'O aluno {nomeAluno} acertou {qtdResCertas} perguntas de {qtdPerguntas}, sendo {resultado} com media {media}!')
   rel.close()
 
-
 correcao(respostasProva, respostasGabarito)
-

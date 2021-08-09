@@ -12,8 +12,7 @@ Repositório para armazenar as atividades da disciplina de Práticas em Desenvol
 - [x] Introdução a Python orientado a objetos: classes, métodos e atributos.
 - [x] Herança com Python.
 - [x] Associações com Python.
-- [ ] Classe estática, abstrata e polimorfismo em Python.
-- [ ] Classe estática, abstrata e polimorfismo em Python.
+- [x] Classe estática, abstrata e polimorfismo em Python.
 - [ ] Interfaces gráficas com Tkinter Python.
 - [ ] Atividades com Tkinter Python.
 - [ ] Introdução ao QT Designer vários objetos de widgtes, SQLite.

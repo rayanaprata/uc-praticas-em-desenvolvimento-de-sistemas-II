@@ -22,7 +22,6 @@ cursor.execute('CREATE TABLE IF NOT EXISTS clients (''id INTEGER PRIMARY KEY AUT
 #   (name, weight))
 # connection.commit()
 
-
 # update
 # cursor.execute('UPDATE clients SET name=? WHERE id=:id', ('Maria', 3))
 # connection.commit()

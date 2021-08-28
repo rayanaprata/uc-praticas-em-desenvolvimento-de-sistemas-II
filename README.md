@@ -15,9 +15,9 @@ Repositório para armazenar as atividades da disciplina de Práticas em Desenvol
 - [x] Classe estática, abstrata e polimorfismo em Python.
 - [x] Interfaces gráficas com Tkinter Python.
 - [x] Atividades com Tkinter Python.
-- [ ] Introdução ao QT Designer vários objetos de widgtes, SQLite.
-- [ ] QT Designer vários objetos de widgtes, atividades SQLite.
-- [ ] Apresentação do trabalho com QT Deseigner.
+- [x] Introdução ao QT Designer vários objetos de widgtes, SQLite.
+- [x] QT Designer vários objetos de widgtes, atividades SQLite.
+- [x] Apresentação do trabalho com QT Deseigner.
 - [ ] Banco de dados CRUD SQLite e MySQL CRUD Trabalho.
 - [ ] Programação Web com Python - Django.
 - [ ] Introdução à Rede Neural Convolucional.

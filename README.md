@@ -18,7 +18,7 @@ Repositório para armazenar as atividades da disciplina de Práticas em Desenvol
 - [x] Introdução ao QT Designer vários objetos de widgtes, SQLite.
 - [x] QT Designer vários objetos de widgtes, atividades SQLite.
 - [x] Apresentação do trabalho com QT Deseigner.
-- [ ] Banco de dados CRUD SQLite e MySQL CRUD Trabalho.
-- [ ] Programação Web com Python - Django.
-- [ ] Introdução à Rede Neural Convolucional.
+- [x] Banco de dados CRUD SQLite e MySQL CRUD Trabalho.
+- [x] Programação Web com Python - Django.
+- [x] Introdução à Rede Neural Convolucional.
 - [ ] Dataset gatos e cachorros.

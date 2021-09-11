@@ -21,4 +21,4 @@ Repositório para armazenar as atividades da disciplina de Práticas em Desenvol
 - [x] Banco de dados CRUD SQLite e MySQL CRUD Trabalho.
 - [x] Programação Web com Python - Django.
 - [x] Introdução à Rede Neural Convolucional.
-- [ ] Dataset gatos e cachorros.
+- [x] Dataset gatos e cachorros.
